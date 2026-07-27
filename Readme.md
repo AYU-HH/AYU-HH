@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 1st year CSE (Big Data Analytics) student at SRM KTR<br>💻 Skilled in Python & C, currently learning Java and C++<br>📊 Passionate about Data Analytics with a growing interest in AI<br>🚀 Aspiring Data Scientist aiming to build impactful real-world solutions<br>🛠️ Currently working on HelloApp and OOPSBannerApp<br>🏆 Focused on hackathons, internships, and top placements<br>
+🎓 2nd year CSE (Big Data Analytics) student at SRM KTR<br>💻 Skilled in Python & C, currently learning Java and C++<br>📊 Passionate about Data Analytics with a growing interest in AI<br>🚀 Aspiring Data Scientist aiming to build impactful real-world solutions<br>🛠️ Currently working on HelloApp and OOPSBannerApp<br>🏆 Focused on hackathons, internships, and top placements<br>
 
 
 ## 🌐 Socials:
